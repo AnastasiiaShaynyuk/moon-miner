@@ -1,0 +1,117 @@
+/* SECTION images */
+
+body {
+  margin: 0;
+  background-image: url(images/Nebula-1\ 1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* height: 100vh; */
+}
+
+.moon-img {
+  transition: transform 0.3s ease;
+  max-height: 55vh;
+  cursor: pointer;
+  filter: drop-shadow(0 0 0.75rem #d215b6);
+}
+
+.moon-img:active {
+  transform: scale(.8);
+}
+
+
+.cheese-icon {
+  height: 50px;
+}
+
+.cheese-icon-btn {
+  height: 30px;
+}
+
+/* SECTION font */
+
+.text-size {
+  font-size: 50px;
+}
+
+.head-name {
+
+  color: #FFFCE0;
+  font-size: 3em;
+  font-weight: bold;
+  text-shadow: 0px 0px 0px #FFF2B2,
+  1px 1px 0px #FFE66E,
+  2px 2px 0px #FFDB58,
+  3px 3px 0px #FFCF23,
+  4px 4px 0px #FFC658,
+  5px 5px 0px #FFB915,
+  6px 6px 0px #FFAE0F,
+  7px 7px 0px #FFA40A,
+  8px 8px 0px #FF9904,
+  9px 9px 0px #FF8F00,
+  10px 10px 0px #FF8400,
+  11px 11px 0px #FF7A00,
+  12px 12px 0px #FF6F00,
+  13px 13px 0px #FF6500,
+  14px 14px 0px #FF5B00,
+  21px 21px 20px rgba(0,0,0,1),
+  0px 0px 20px rgba(0,0,0,0.2);
+  
+
+}
+
+.arrow {
+  font-size: 20px;
+}
+
+
+/* SECTION borders */
+
+.b-box-left {
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  background-color: #FCB808;
+  border: 20px solid #ffc107;
+  box-shadow: inset 0 0 20px #f8a100;
+}
+
+.b-box-right {
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: #FCB808;
+  border-bottom: 20px solid #ffc107;
+  border-top: 20px solid #ffc107;
+  border-right: 20px solid #ffc107;
+  box-shadow: inset 0 0 20px #f8a100;
+}
+
+/* .borders {
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+} */
+
+.knives, .drills, .mouse {
+  border: 1px solid white;
+  padding: 7px 17px;
+  border-radius: 5px;
+}
+
+
+.color {
+  background-color: #FCB808;
+  /* border-top-right-radius: 20px; */
+  border-top-left-radius: 20px;
+  box-shadow: inset 0 0 20px #f8a100;
+}
+.color-right {
+  border-top-right-radius: 20px; 
+  box-shadow: inset 0 0 20px #f8a100;
+  background-color: #FCB808;
+}
+/* .drills {
+  border: 1px solid white;
+  padding: 7px 17px;
+  border-radius: 5px;
+} */
+
+
