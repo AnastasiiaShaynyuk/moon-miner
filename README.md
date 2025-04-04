@@ -20,7 +20,7 @@ Play the game here: [Moon Miner Demo](https://anastasiiashaynyuk.github.io/moon-
 - CSS  
 - JavaScript  
 
-## 🛠️ Project Setup
+## 💻 Project Setup
 
 ```bash
 npm install
