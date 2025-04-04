@@ -20,8 +20,6 @@ Play the game here: [Moon Miner Demo](https://anastasiiashaynyuk.github.io/moon-
 - CSS  
 - JavaScript  
 
-## 📦 How to Run Locally
-
 ## 🛠️ Project Setup
 
 ```bash
