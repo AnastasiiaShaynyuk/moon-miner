@@ -18,10 +18,4 @@ Play the game here: [Moon Miner Demo](https://anastasiiashaynyuk.github.io/moon-
 
 - HTML  
 - CSS  
-- JavaScript  
-
-## 💻 Project Setup
-
-```bash
-npm install
-npm run serve
+- JavaScript
